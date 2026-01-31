@@ -2,11 +2,7 @@
 
 ### Software Engineering Student | Aspiring Backend Developer
 
-I’m a software engineering student focused on building **reliable, scalable, and user-centered** applications. I enjoy bridging academic concepts with real-world systems by writing clean, maintainable code and strengthening core backend fundamentals.
-
-* **Currently Building:** Backend-driven applications using **Node.js, Express, and EJS**.
-* **Learning Path:** Expanding into full-stack development with **React**, with a planned transition to **Python, Django, and PostgreSQL**.
-* **Philosophy:** Turning complex logic into simple, efficient, and well-documented systems.
+Software engineering student interested in building reliable, scalable applications, writing clean code, and strengthening backend fundamentals.
 
 ---
 
