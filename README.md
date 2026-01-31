@@ -2,7 +2,7 @@
 
 ### Software Engineering Student | Aspiring Backend Developer
 
-Software engineering student interested in building reliable, scalable applications, writing clean code, and strengthening backend fundamentals.
+I’m a software engineering student learning full-stack development, with a focus on backend fundamentals. I enjoy combining technical skills with creativity to create clean, user-focused solutions.
 
 ---
 
