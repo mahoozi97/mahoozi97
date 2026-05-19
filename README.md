@@ -1,8 +1,8 @@
 # Hi, I’m Ali
 
-### Software Engineering Student | Aspiring Backend Developer
+### Software Engineer | Aspiring Backend Developer
 
-I’m a software engineering student, with a focus on backend fundamentals. I enjoy combining technical skills with creativity to create clean, user-focused solutions.
+I’m a software engineer, specializing in backend architecture and server-side logic. I enjoy combining technical skills with creativity to create clean, user-focused solutions.
 
 ---
 
