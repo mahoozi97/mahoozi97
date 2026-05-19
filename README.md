@@ -1,6 +1,6 @@
 # Hi, I’m Ali
 
-### Software Engineer | Aspiring Backend Developer
+### Software Engineer | Backend Developer
 
 I’m a software engineer, specializing in backend architecture and server-side logic. I enjoy combining technical skills with creativity to create clean, user-focused solutions.
 
