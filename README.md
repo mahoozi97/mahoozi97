@@ -18,3 +18,5 @@ I’m a software engineer, specializing in backend architecture and server-side 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![Postman](https://img.shields.io/badge/POSTMAN-%23FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
